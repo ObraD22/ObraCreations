@@ -1,0 +1,8 @@
+{
+  "name": "Obra Creations | Photography & Cinema",
+  "description": "Premier photography and cinematic videography portfolio by Daniel Obra, capturing weddings, prenuptials, debuts, and special milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
